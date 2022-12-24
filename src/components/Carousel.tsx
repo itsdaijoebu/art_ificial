@@ -1,5 +1,5 @@
 import React from 'react'
-import {useHorizontalScroll} from './YScroll'
+import {useHorizontalScroll} from './HScroll'
 
 export default function Carousel() {
     const scrollRef = useHorizontalScroll();
