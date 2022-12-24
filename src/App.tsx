@@ -11,7 +11,6 @@ function App() {
     <div>
       <Nav />
       <Home />
-      <Carousel />
     </div>
   )
 }
